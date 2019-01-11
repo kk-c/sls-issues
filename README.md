@@ -1,4 +1,3 @@
-# sls-issues
-Issue tracker for self.Logger.solar
-
-This repo contains no code.
+# Bug-Tracker for [self.Logger.solar](https://home.self.logger.solar)
+## FTP-Hosting für Photovoltaik-Anlagen
+### Speicherplatz für Solar-Datenlogger

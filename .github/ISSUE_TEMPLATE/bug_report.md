@@ -1,9 +1,9 @@
 ---
 name: Fehlerbericht
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen
-title: ''
-labels: ''
-assignees: '@kk-c'
+title: 'Kurze Fehlerbeschreibung ...'
+labels: 'bug new'
+assignees: 'kk-c'
 
 ---
 

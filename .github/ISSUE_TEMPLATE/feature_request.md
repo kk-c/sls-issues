@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Schlage eine Idee für dieses Projekt vor
-title: ''
-labels: ''
-assignees: '@kk-c'
+title: 'Kurze Beschreibung ...'
+labels: 'enhancement'
+assignees: 'kk-c'
 
 ---
 

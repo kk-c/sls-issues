@@ -1,38 +1,43 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Fehlerbericht
+about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen
 title: ''
 labels: ''
-assignees: ''
+assignees: '@kk-c'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreibe den Fehler**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Eine klare und prägnante Beschreibung, was der Fehler ist.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Zur Reproduktion**
+
+Schritte, um das Verhalten zu reproduzieren:
+1. Gehe zu '....'.
+2. Klicken Sie auf '....'.
+3. Nach unten blättern bis zu '....'.
+4. Fehler anzeigen
+
+**Erwartetes Verhalten**
+
+Eine klare und prägnante Beschreibung dessen, was Du erwartet hast.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Füge ggf. Screenshots hinzu, um das Problem zu erklären.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Desktop (bitte fülle die folgenden Angaben aus):**
+ - OS: [z.B. iOS]
+ - Browser [z.B. Chrom, Safari]
+ - Version [z.B. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Smartphone (bitte fülle die folgenden Angaben aus):**
+ - Gerät: [z.B. iPhone6]
+ - OS: [z.B. iOS8.1]
+ - Browser [z.B. Chrome, Safari]
+ - Version [z.B. 22]
+
+**Zusätzliche Informationen**
+
+Füge hier weitere Informationen zum Problem hinzu.

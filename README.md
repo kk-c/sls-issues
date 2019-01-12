@@ -8,4 +8,4 @@ Dieses Repository dient ausschließlich zur Verwaltung von [Bugs und Feature-Req
 
 ---
 
-Direkt einen [Fehler melden](https://github.com/kk-c/sls-issues/issues/new?assignees=kk-c&labels=bug&template=bug_report.md&title=Kurze+Fehlerbeschreibung+...) oder einen [Freature-Rquest erstellen](https://github.com/kk-c/sls-issues/issues/new?assignees=kk-c&labels=enhancement&template=feature_request.md&title=Kurze+Beschreibung+...)
+Direkt einen [Fehler melden](https://github.com/kk-c/sls-issues/issues/new?assignees=kk-c&labels=bug&template=bug_report.md&title=Kurze+Fehlerbeschreibung+...) oder einen [Freature-Rquest erstellen](https://github.com/kk-c/sls-issues/issues/new?assignees=kk-c&labels=enhancement&template=feature_request.md&title=Kurze+Beschreibung+...).
